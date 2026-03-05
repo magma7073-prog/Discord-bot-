@@ -20,5 +20,8 @@ The goal of this project is to **simplify the creation of Discord bots**, even f
 4. Invite the bot to your server
 
 ### 📌 Technologies
-- JavaScript / Node.js  
+- JavaScript / Node.js
+- Visuel studio code   
 - Discord API
+- py -m pip install -U discord.py ( in your terminal VS)
+- py -m pip show discord.py ( verifie si la librairie a était installer )
