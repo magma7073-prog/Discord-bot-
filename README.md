@@ -18,6 +18,12 @@ The goal of this project is to **simplify the creation of Discord bots**, even f
 2. Add the token to the configuration
 3. Run the project
 4. Invite the bot to your server
+5. creer un espace virtuel ( python -m venv .venv) et coller le documment ".env(venv)" la ou vous avez placer votre token
+6. ensuite avec l'autre doccument .env  ( urgent !! ne pas le placer dans votre espace virtuel et n'ecriver pas votre token dedans laisser comme c'etait écrit )
+7. apres cela taper " py nom_de_votre_document.py" par exemple ( py discordbot.py )
+8. cette image doit s'afficher normalement avc le nom de votre bot discord 
+9.  <img width="755" height="92" alt="image" src="https://github.com/user-attachments/assets/f033b949-600a-493c-8e82-84a3a63be0cd" />
+
 
 ### 📌 Technologies
 - JavaScript / Node.js
